@@ -1,5 +1,11 @@
 # Open eIDAS — Site Web Officiel
 
+> **Site archivé.** Le projet Open eIDAS est devenu **OTSPI**. Le domaine `open-eidas.eu` redirige de façon permanente (301)
+> vers [www.otspi.org](https://www.otspi.org) (dépôt [otspi/vitrine](https://github.com/otspi/vitrine))
+> et [about.otspi.org](https://about.otspi.org) (dépôt [otspi/organisation](https://github.com/otspi/organisation)).
+> Seul le fichier `.htaccess` est encore actif ; les pages HTML sont conservées pour mémoire.
+> Les sous-domaines `demo.open-eidas.eu` et `api.staging.open-eidas.eu` ne sont pas concernés.
+
 Dépôt du site vitrine d'**Open eIDAS** ([open-eidas.eu](https://open-eidas.eu)), hébergé chez **Infomaniak**.
 
 ### Écosystème & Hébergements
